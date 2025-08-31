@@ -33,4 +33,4 @@ Este projeto foi desenvolvido como parte do curso técnico de Desenvolvimento de
 
 ### 👩‍💻 Autoria
 
-Projeto desenvolvido por Sabrina Lopes, Thaiza e Yasmim.
+Projeto desenvolvido por Sabrina Faria, Thaiza Valentim e Yasmim Ribeiro.
